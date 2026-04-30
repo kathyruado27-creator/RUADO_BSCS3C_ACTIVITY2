@@ -78,7 +78,7 @@ st.markdown("---")
 col1, col2 = st.columns([1, 2])
 
 with col1:
-    st.image("assets/RUADO_PICTURE1.jpg")
+    st.image("RUADO/pages/RUADO_PICTURE1.jpg")
 
 with col2:
     st.markdown('<div class="card">', unsafe_allow_html=True)
